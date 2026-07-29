@@ -1,0 +1,2 @@
+Replace this file with actual portfolio images for project placeholders.
+Project image paths used in code: /project1.jpg, /project2.jpg, /project3.jpg, /project4.jpg, /project5.jpg, /project6.jpg

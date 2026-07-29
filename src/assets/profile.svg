@@ -1,0 +1,14 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06B6D4" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" rx="120" fill="#020617" />
+  <circle cx="600" cy="420" r="220" fill="url(#gradient)" fill-opacity="0.18" />
+  <rect x="200" y="720" width="800" height="320" rx="90" fill="#111827" />
+  <path d="M420 570C420 470 510 380 610 380C710 380 800 470 800 570V640C800 710 740 770 670 780V870H550V780C480 770 420 710 420 640V570Z" fill="#06B6D4" fill-opacity="0.28" />
+  <circle cx="600" cy="420" r="140" fill="#ffffff" fill-opacity="0.06" />
+  <text x="50%" y="90%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, sans-serif" font-size="46" fill="#FFFFFF" opacity="0.85">Kishore</text>
+</svg>

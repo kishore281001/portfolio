@@ -1,0 +1,6 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#0F172A" />
+  <circle cx="960" cy="180" r="150" fill="#06B6D4" fill-opacity="0.18" />
+  <circle cx="220" cy="620" r="170" fill="#2563EB" fill-opacity="0.14" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, sans-serif" font-size="54" fill="white">Quadcopter Drone</text>
+</svg>
